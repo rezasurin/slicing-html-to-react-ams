@@ -1,0 +1,2 @@
+export const OPEN_SIDE_NAV = "OPEN_SIDE_NAV"
+export const OPEN_SIDE_NOTIF = "OPEN_SIDE_NOTIF"

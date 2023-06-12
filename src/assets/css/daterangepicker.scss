@@ -1,0 +1,31 @@
+.dataTables_length, .dataTables_filter {
+  display: none;
+}
+input#dateaction {
+  font-size: 12px;
+}
+input#dateactions {
+  font-size: 12px;
+}
+.featuredBtn.active {
+  background-color: #f1f1f1;
+  /* color: white; */
+}
+.daterangepicker .calendar-table th, .daterangepicker .calendar-table td {
+  line-height: 0px;
+  border-radius: 0px;
+}
+.daterangepicker:after {
+  left: 0;
+  right: 0;
+  width: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+.daterangepicker:before {
+  left: 0;
+  right: 0;
+  width: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
